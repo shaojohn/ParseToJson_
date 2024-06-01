@@ -1,0 +1,1140 @@
+[
+  {
+    "Year": 2023,
+    "YearAmount": 183059,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 18567
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 16043
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 19501
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 14937
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 17213
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 16662
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 15207
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 15565
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 14722
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 12738
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 10324
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 11580
+      }
+    ]
+  },
+  {
+    "Year": 2022,
+    "YearAmount": 42198,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 3482
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 2999
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 3899
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 2962
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 2189
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 398
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 2477
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 3341
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 2677
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 3672
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 7759
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 6344
+      }
+    ]
+  },
+  {
+    "Year": 2021,
+    "YearAmount": 86863,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 7962
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 6749
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 4365
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 5879
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 4442
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 8444
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 6535
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 10445
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 8401
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 8306
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 7312
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 8024
+      }
+    ]
+  },
+  {
+    "Year": 2020,
+    "YearAmount": 60441,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 7818
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 6748
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 7270
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 2211
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 1330
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 1344
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 716
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 1764
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 754
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 5257
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 3104
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 22126
+      }
+    ]
+  },
+  {
+    "Year": 2019,
+    "YearAmount": 292455,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 22838
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 22877
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 26443
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 22079
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 24262
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 24453
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 23812
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 25952
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 23588
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 25840
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 25369
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 24942
+      }
+    ]
+  },
+  {
+    "Year": 2018,
+    "YearAmount": 302846,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 26468
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 24995
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 27328
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 21952
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 26559
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 25327
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 22490
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 25489
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 25728
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 25950
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 24300
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 26260
+      }
+    ]
+  },
+  {
+    "Year": 2017,
+    "YearAmount": 265743,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 22699
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 23033
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 26633
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 21362
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 22676
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 22964
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 19994
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 22742
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 20162
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 21232
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 22991
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 19255
+      }
+    ]
+  },
+  {
+    "Year": 2016,
+    "YearAmount": 223210,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 19815
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 18788
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 21815
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 18396
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 18836
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 17774
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 15881
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 18389
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 17341
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 17981
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 19521
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 18674
+      }
+    ]
+  },
+  {
+    "Year": 2015,
+    "YearAmount": 230840,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 18340
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 16425
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 20059
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 17133
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 18623
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 18615
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 17355
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 20346
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 19167
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 21487
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 19542
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 23748
+      }
+    ]
+  },
+  {
+    "Year": 2014,
+    "YearAmount": 351521,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 23285
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 24269
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 28025
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 25564
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 28876
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 28415
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 27215
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 32354
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 31318
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 35453
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 38007
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 28739
+      }
+    ]
+  },
+  {
+    "Year": 2013,
+    "YearAmount": 360749,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 33460
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 30179
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 36477
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 28963
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 30737
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 29485
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 28269
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 29589
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 28305
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 31336
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 27084
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 26864
+      }
+    ]
+  },
+  {
+    "Year": 2012,
+    "YearAmount": 304139,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 28245
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 24882
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 27700
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 23866
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 26136
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 24579
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 23334
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 26078
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 25003
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 24989
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 24286
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 25040
+      }
+    ]
+  },
+  {
+    "Year": 2011,
+    "YearAmount": 267867,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 23608
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 23058
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 26851
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 21244
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 24769
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 24212
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 20792
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 24306
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 20507
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 20087
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 19863
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 18571
+      }
+    ]
+  },
+  {
+    "Year": 2010,
+    "YearAmount": 188343,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 18883
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 17354
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 18869
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 15302
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 15773
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 16310
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 13642
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 17075
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 14186
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 13569
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 13445
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 13937
+      }
+    ]
+  },
+  {
+    "Year": 2009,
+    "YearAmount": 119369,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 11347
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 12215
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 12600
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 10943
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 11268
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 9570
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 8269
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 8799
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 8340
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 9531
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 7912
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 8575
+      }
+    ]
+  },
+  {
+    "Year": 2008,
+    "YearAmount": 108772,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 7657
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 7551
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 8869
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 7088
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 9613
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 9286
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 9974
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 9793
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 9118
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 10123
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 9362
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 10338
+      }
+    ]
+  },
+  {
+    "Year": 2007,
+    "YearAmount": 83022,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 8124
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 7359
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 9224
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 7145
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 6667
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 6529
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 5760
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 7477
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 6330
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 6324
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 5905
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 6178
+      }
+    ]
+  },
+  {
+    "Year": 2006,
+    "YearAmount": 56623,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 6072
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 4941
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 5911
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 4616
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 4730
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 4604
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 4042
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 4471
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 4521
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 4687
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 4425
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 3604
+      }
+    ]
+  },
+  {
+    "Year": 2005,
+    "YearAmount": 46047,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 3862
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 3754
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 4109
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 3380
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 4465
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 3887
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 3728
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 4310
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 3638
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 4038
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 3096
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 3779
+      }
+    ]
+  },
+  {
+    "Year": 2004,
+    "YearAmount": 41378,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 3488
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 3748
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 3963
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 3087
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 3777
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 4366
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 3333
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 3522
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 2756
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 3357
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 2847
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 3133
+      }
+    ]
+  },
+  {
+    "Year": 2003,
+    "YearAmount": 28672,
+    "Months": [
+      {
+        "Month": 12,
+        "MonthAmount": 2536
+      },
+      {
+        "Month": 11,
+        "MonthAmount": 3054
+      },
+      {
+        "Month": 10,
+        "MonthAmount": 2849
+      },
+      {
+        "Month": 9,
+        "MonthAmount": 2480
+      },
+      {
+        "Month": 8,
+        "MonthAmount": 2929
+      },
+      {
+        "Month": 7,
+        "MonthAmount": 2477
+      },
+      {
+        "Month": 6,
+        "MonthAmount": 1956
+      },
+      {
+        "Month": 5,
+        "MonthAmount": 1655
+      },
+      {
+        "Month": 4,
+        "MonthAmount": 1701
+      },
+      {
+        "Month": 3,
+        "MonthAmount": 2869
+      },
+      {
+        "Month": 2,
+        "MonthAmount": 2191
+      },
+      {
+        "Month": 1,
+        "MonthAmount": 1976
+      }
+    ]
+  },
+  {
+    "Year": 2002,
+    "YearAmount": 22180
+  }
+]
